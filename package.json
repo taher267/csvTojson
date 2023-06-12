@@ -1,0 +1,12 @@
+{
+  "name": "csv-t2-json",
+  "version": "1.0.0",
+  "description": "conversion csv to json",
+  "main": "index.js",
+  "repository": "https://github.com/taher267/csvTojson.git",
+  "author": "ABU TAHER <abutaher267@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "csvTojson"
+  ]
+}

@@ -1,4 +1,4 @@
-const main = ({ fileSource, csv }) => {
+const main = ({ csv, headers }) => {
   const lines = csv.trim().split("\n");
   headers = headers
     ? headers

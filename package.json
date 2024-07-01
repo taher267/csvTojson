@@ -1,6 +1,6 @@
 {
   "name": "@taher267/csvtojson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "conversion csv to json",
   "main": "index.js",
   "repository": "https://github.com/taher267/csvTojson.git",
